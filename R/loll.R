@@ -1,0 +1,7 @@
+original = read.csv('anime_cleaned.csv')
+tv = read.csv('TV Anime Recommendations.csv')
+movie = read.csv('Anime Movie Recommendations.csv')
+ova = read.csv('Anime OVA Recommendations.csv')
+special = read.csv('Anime Special Recommendations.csv')
+ona = read.csv('Anime ONA Recommendations.csv')
+music = read.csv('Music Anime Recommendations.csv')
